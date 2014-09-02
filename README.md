@@ -22,6 +22,13 @@ There are some TODO left so feel free to contribute.
 
 ---
 
+## TODO:
+- Make minifycss and uglify configurable with boilerplate.json
+- Change description "Adding New Bootstrap Components"
+- Scaffold new theme directories simple by changeing theme name in boilerplate.json
+
+---
+
 # How to work with:
 
 ### Step 1:
@@ -112,7 +119,3 @@ To add new JavaScript files, open up `gulpfile.js`. gulp.js is seperated into a 
 ])
 // ...
 ```
-
-## TODO:
-- Make minifycss and uglify configurable with boilerplate.json
-- Change description "Adding New Bootstrap Components"
